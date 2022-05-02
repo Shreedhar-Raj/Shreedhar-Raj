@@ -2,7 +2,7 @@
 - 👀 I’m interested in React JS.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ReactJS Projects.
-- 📫 You can reach me by writing an email to ShreedharRaj.Buisness@gmail.com
+- 📫 You can reach me by writing an email to shreedharrj@gmail.com
 
 <!---
 Shreedhar-Raj/Shreedhar-Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
